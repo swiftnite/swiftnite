@@ -5,8 +5,17 @@ I am Swift-Nite, a Fortnite dataminer on Twitter and a developer (Python/C#).
 
 I have created the Fortnite Shop Sections Bot and Fortnite Staging Servers Bot available on GitHub, as well as private tools such as my item shop bot.
 
-![Swift-Nite's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwiftNite&hide=issues,contribs&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
-![Swift-Nite's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwiftNite&hide=issues,contribs&count_private=true&show_icons=true&theme=default#gh-light-mode-only)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=swiftnite&count_private=true&show_icons=truee&hide=contribs&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=swiftnite&count_private=true&show_icons=truee&hide=contribs"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=swiftnite&count_private=true&show_icons=truee&hide=contribs" />
+</picture>
 
 ## My repos
 ### [Shop Sections Bot](https://github.com/swiftnite/Fortnite-Shop-Sections-Bot)
